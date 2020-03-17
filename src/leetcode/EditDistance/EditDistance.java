@@ -4,7 +4,6 @@ package leetcode.EditDistance;
  * https://leetcode.com/problems/edit-distance/
  */
 public class EditDistance {
-
     public static void main(String[] args) {
         Solution solution = new Solution();
 
